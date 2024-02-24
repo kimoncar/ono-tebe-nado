@@ -2,4 +2,4 @@
 Репозиторий для проектной работы содержит верстку макета из Figma.
 
 # Ссылка
-https://github.com/kimoncar/ono-tebe-nado
+https://github.com/kimoncar/ono-tebe-nado.git
